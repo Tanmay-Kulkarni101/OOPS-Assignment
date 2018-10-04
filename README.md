@@ -1,5 +1,5 @@
 # Question Bank Database
-It is a stand alone java that interacts with a sqlite database to create a question bank.
+It is a stand alone Java Application that interacts with a sqlite database to create a question bank.
 # Features 
 
   - Has separate admin and user controls so that users can be separatately managed by the admin.
